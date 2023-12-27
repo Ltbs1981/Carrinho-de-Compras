@@ -1,4 +1,4 @@
-alert('Bem vindo ao melhor e mais variado site de compras!');
+alert('Bem vindo ao melhor e mais variado site de compras');
 let totalGeral = 0;
 
 function adicionar() {
